@@ -53,6 +53,3 @@ The final Excel deliverable includes an interactive dashboard featuring:
 * `/Analysis`: The Excel Workbook with all formulas, pivot tables, and the final dashboard.
 * `/Report`: A brief PDF summary of the findings and business recommendations.
 
-This project demonstrates a results-driven mindset by taking raw financial data and transforming it into a tool that could assist a Credit Officer in making lending decisions.
-
-**Would you like me to help you write the "Executive Summary" PDF that goes along with this repo?**
