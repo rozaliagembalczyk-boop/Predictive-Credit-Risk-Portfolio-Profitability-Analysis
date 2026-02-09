@@ -22,7 +22,7 @@ This project performs a comprehensive risk assessment of a retail loan portfolio
 
 Instead of relying solely on FICO scores, I developed a **Weighted Risk Grade (WRG)** using the following formula:
 
-$$WRG = (dti \times 0.4) + (revol\_util \times 0.3) + (inq\_last\_6mths \times 0.3)$$
+$$WRG = (dti \times 0.4) + (revol.util \times 0.3) + (inq.last.6mths \times 0.3)$$
 
 This model accounts for the borrower's debt burden, credit hunger, and current credit usage simultaneously.
 
