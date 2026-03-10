@@ -39,7 +39,7 @@ The final Excel deliverable includes an interactive dashboard featuring:
 * **FICO Distribution Histogram** to visualize the credit quality of the borrower pool.
 * **Default Heatmap** showing which categories contribute most to portfolio loss.
 
-## What I Learned (Fintech Focus)
+## What I Learned
 
 * **Imbalanced Data:** Learned how to analyze "rare events" (defaults) in a sea of successful payments.
 * **Risk vs. Reward:** Understanding that a "high-risk" loan isn't necessarily a bad loan for a bank, provided the `int_rate` compensates for the probability of `not_fully_paid`.
