@@ -47,7 +47,7 @@ The final Excel deliverable includes an interactive dashboard featuring:
 
 ---
 
-### How to Navigate this Repo
+### How to Navigate this Repository
 
 * `/loan_data`: Contains the raw Lending Club dataset.
 * `/Analysis`: The Excel Workbook with all formulas, pivot tables, and the final dashboard.
